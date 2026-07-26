@@ -1,0 +1,1 @@
+Aprimorando minha Lógica de Programação através de um projeto basico inspiradoem um sistema de RPG, utilizando os conceitos de: if else para condições, let e const para variáveis, operador ternário para descisões rápidas e operadores básicos para realizar ações simples em dados
