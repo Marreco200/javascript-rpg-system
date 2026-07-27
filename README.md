@@ -1,5 +1,10 @@
 # RPG XP System
 
+## Getting Started
+
+1. Clone the repository
+2. Open `index.html` in your browser
+
 ## 📖 About
 
 This project was created to practice basic JavaScript concepts such as variables, conditional statements, the ternary operator, and value manipulation.
@@ -22,7 +27,4 @@ Through this simple RPG-inspired system, I practiced:
 - The ternary operator for simple conditions
 - Basic arithmetic operators to manipulate data
 
-## Getting Started
 
-1. Clone the repository
-2. Open `index.html` in your browser
