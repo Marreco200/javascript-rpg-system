@@ -21,3 +21,8 @@ Through this simple RPG-inspired system, I practiced:
 - `let` and `const` for variable declaration
 - The ternary operator for simple conditions
 - Basic arithmetic operators to manipulate data
+
+## Getting Started
+
+1. Clone the repository
+2. Open `index.html` in your browser
